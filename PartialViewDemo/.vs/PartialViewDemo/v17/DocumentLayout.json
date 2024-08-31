@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\PartialViewDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBF802A-12F2-456A-A1F4-4FEC5D0B9C34}|PartialViewDemo\\PartialViewDemo.csproj|e:\\dotnet\\partialviewdemo\\partialviewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBF802A-12F2-456A-A1F4-4FEC5D0B9C34}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBF802A-12F2-456A-A1F4-4FEC5D0B9C34}|PartialViewDemo\\PartialViewDemo.csproj|e:\\dotnet\\partialviewdemo\\partialviewdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCBF802A-12F2-456A-A1F4-4FEC5D0B9C34}|PartialViewDemo\\PartialViewDemo.csproj|solutionrelative:partialviewdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\DotNet\\PartialViewDemo\\PartialViewDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DotNet\\PartialViewDemo\\PartialViewDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartialViewDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:14:33.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\PartialViewDemo\\PartialViewDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PartialViewDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\DotNet\\PartialViewDemo\\PartialViewDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PartialViewDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:14:23.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

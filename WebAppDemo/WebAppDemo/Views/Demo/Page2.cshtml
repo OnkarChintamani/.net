@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Page2";
+}
+
+<h1>Page2</h1>
+
+<form asp-action="Page2">
+  
+   <table class="table">
+    <tr>
+        <td>UserName</td>
+        <td>@Html.TextBox("first")</td>
+    </tr>
+    <tr>
+            <td>Email</td>
+            <td>@Html.TextBox("email")</td>
+    </tr>
+    <tr>
+            <td>Gender</td>
+            <td>
+                @Html.RadioButton("gender","Male") Male
+                @Html.RadioButton("gender","Female")Female
+            </td>
+   </tr>
+   <tr>
+       <td>
+           Select Cities
+       </td>
+       <td>
+           @Html.DropDownList("cities")
+       </td>
+   </tr>
+   <tr>
+       <td>
+
+       </td>
+       <td>
+           <input type="submit" value="Submit" class="btn btn-primary"/>
+       </td>
+   </tr>
+    </table>
+</form>

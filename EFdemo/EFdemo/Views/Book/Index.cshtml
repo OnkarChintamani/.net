@@ -1,0 +1,53 @@
+﻿@model IEnumerable<EFdemo.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-dark">Add Book</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bprice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bprice)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Bid}) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Bid }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Bid })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

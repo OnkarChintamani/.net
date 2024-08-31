@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\ServicesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|e:\\dotnet\\servicesdemo\\servicesdemo\\servicesdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C3B5257-EA74-4B56-AECC-0778FB1DF6CF}|ServicesDemo\\ServicesDemo.csproj|solutionrelative:servicesdemo\\servicesdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ServicesDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ServicesDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:45:19.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ServicesDemo\\Program.cs",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Program.cs",
+              "RelativeToolTip": "ServicesDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:43:19.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ServicesDemo\\appsettings.json",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\appsettings.json",
+              "RelativeToolTip": "ServicesDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T16:42:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ServicesDemo\\Services\\EmployeeService.cs",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ServicesDemo\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:41:55.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "ServicesDemo\\Services\\IEmployeeService.cs",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "ServicesDemo\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:41:08.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ServicesDemo\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "ServicesDemo\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:40:02.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ServicesDemo\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "ServicesDemo\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:39:26.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ServicesDemo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ServicesDemo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:37:35.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ServicesDemo\\Models\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "ServicesDemo\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:35:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicesDemo",
+              "DocumentMoniker": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\ServicesDemo.csproj",
+              "RelativeDocumentMoniker": "ServicesDemo\\ServicesDemo.csproj",
+              "ToolTip": "E:\\DotNet\\ServicesDemo\\ServicesDemo\\ServicesDemo.csproj",
+              "RelativeToolTip": "ServicesDemo\\ServicesDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T16:30:49.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

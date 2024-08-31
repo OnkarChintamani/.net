@@ -1,0 +1,12 @@
+E:\DotNet\Product\Product\bin\Debug\Product.exe.config
+E:\DotNet\Product\Product\bin\Debug\Product.exe
+E:\DotNet\Product\Product\bin\Debug\Product.pdb
+E:\DotNet\Product\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+E:\DotNet\Product\Product\obj\Debug\Product.Form1.resources
+E:\DotNet\Product\Product\obj\Debug\Product.Properties.Resources.resources
+E:\DotNet\Product\Product\obj\Debug\Product.csproj.GenerateResource.cache
+E:\DotNet\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+E:\DotNet\Product\Product\obj\Debug\Product.exe
+E:\DotNet\Product\Product\obj\Debug\Product.pdb
+E:\DotNet\Product\Product\obj\Debug\Product.Form2.resources
+E:\DotNet\Product\Product\obj\Debug\Product.MDI.resources

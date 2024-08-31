@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\CRUDusingADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\models\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\models\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\models\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\models\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\models\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\models\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|e:\\dotnet\\crudusingado\\crudusingado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F353BF9B-1971-435F-929B-F11DBE28ED49}|CRUDusingADO\\CRUDusingADO.csproj|solutionrelative:crudusingado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDusingADO\\appsettings.json",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\appsettings.json",
+              "RelativeToolTip": "CRUDusingADO\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T12:55:53.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:57:02.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CRUDusingADO\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:56:38.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Models\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Models\\ProductDAL.cs",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Models\\ProductDAL.cs",
+              "RelativeToolTip": "CRUDusingADO\\Models\\ProductDAL.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:56:30.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:51:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:51:01.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:50:37.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CRUDusingADO\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CRUDusingADO\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-18T10:34:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Book\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:33:57.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:32:12.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:16:12.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Book\\Create.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:13:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Program.cs",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Program.cs",
+              "RelativeToolTip": "CRUDusingADO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:55:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDusingADO\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T09:55:34.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Controllers\\BookController.cs",
+              "RelativeToolTip": "CRUDusingADO\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv10AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:50:37.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookDAL.cs",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Models\\BookDAL.cs",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Models\\BookDAL.cs",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Models\\BookDAL.cs",
+              "RelativeToolTip": "CRUDusingADO\\Models\\BookDAL.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowDsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:46:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CRUDusingADO\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwGgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:34:39.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Models\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "CRUDusingADO\\Models\\StudentDAL.cs",
+              "ToolTip": "E:\\DotNet\\CRUDusingADO\\CRUDusingADO\\Models\\StudentDAL.cs",
+              "RelativeToolTip": "CRUDusingADO\\Models\\StudentDAL.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwFMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:30:27.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

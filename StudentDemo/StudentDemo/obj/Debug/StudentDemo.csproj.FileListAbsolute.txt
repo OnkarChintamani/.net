@@ -1,0 +1,10 @@
+E:\DotNet\StudentDemo\StudentDemo\bin\Debug\StudentDemo.exe.config
+E:\DotNet\StudentDemo\StudentDemo\bin\Debug\StudentDemo.exe
+E:\DotNet\StudentDemo\StudentDemo\bin\Debug\StudentDemo.pdb
+E:\DotNet\StudentDemo\StudentDemo\obj\Debug\StudentDemo.csproj.AssemblyReference.cache
+E:\DotNet\StudentDemo\StudentDemo\obj\Debug\StudentDemo.Form1.resources
+E:\DotNet\StudentDemo\StudentDemo\obj\Debug\StudentDemo.Properties.Resources.resources
+E:\DotNet\StudentDemo\StudentDemo\obj\Debug\StudentDemo.csproj.GenerateResource.cache
+E:\DotNet\StudentDemo\StudentDemo\obj\Debug\StudentDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\StudentDemo\StudentDemo\obj\Debug\StudentDemo.exe
+E:\DotNet\StudentDemo\StudentDemo\obj\Debug\StudentDemo.pdb

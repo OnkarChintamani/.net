@@ -1,0 +1,13 @@
+E:\DotNet\EmployeeFrom\EmployeeFrom\bin\Debug\EmployeeFrom.exe.config
+E:\DotNet\EmployeeFrom\EmployeeFrom\bin\Debug\EmployeeFrom.exe
+E:\DotNet\EmployeeFrom\EmployeeFrom\bin\Debug\EmployeeFrom.pdb
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.csproj.AssemblyReference.cache
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.Form1.resources
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.Properties.Resources.resources
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.csproj.GenerateResource.cache
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.csproj.CoreCompileInputs.cache
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.exe
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.pdb
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.Form2.resources
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.Login.resources
+E:\DotNet\EmployeeFrom\EmployeeFrom\obj\Debug\EmployeeFrom.MDI.resources

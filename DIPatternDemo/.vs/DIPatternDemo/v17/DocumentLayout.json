@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\DIPatternDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|e:\\dotnet\\dipatterndemo\\dipatterndemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3E37EDA-C287-46F5-B9B3-F78D464879EE}|DIPatternDemo\\DIPatternDemo.csproj|solutionrelative:dipatterndemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "DIPatternDemo\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:06:21.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "DIPatternDemo\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:05:21.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "DIPatternDemo\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T16:53:40.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "DIPatternDemo\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T16:50:46.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "DIPatternDemo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T16:48:19.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "DIPatternDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:06:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Services\\EmployeeService.cs",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "DIPatternDemo\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:48:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Services\\IEmployeeService.cs",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "DIPatternDemo\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:47:55.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Program.cs",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Program.cs",
+              "RelativeToolTip": "DIPatternDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:27:31.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DIPatternDemo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:25:02.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "DIPatternDemo\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:21:46.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "DIPatternDemo\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:19.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "DIPatternDemo\\appsettings.json",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\appsettings.json",
+              "RelativeToolTip": "DIPatternDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T05:48:07.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DIPatternDemo\\Models\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\DIPatternDemo\\DIPatternDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "DIPatternDemo\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:47:13.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

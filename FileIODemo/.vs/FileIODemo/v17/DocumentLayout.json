@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\FileIODemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A031C4-CE26-4C8C-B967-78E9DDBE7FA2}|FileIODemo\\FileIODemo.csproj|E:\\DotNet\\FileIODemo\\fileiodemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A031C4-CE26-4C8C-B967-78E9DDBE7FA2}|FileIODemo\\FileIODemo.csproj|solutionrelative:fileiodemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A031C4-CE26-4C8C-B967-78E9DDBE7FA2}|FileIODemo\\FileIODemo.csproj|E:\\DotNet\\FileIODemo\\fileiodemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A031C4-CE26-4C8C-B967-78E9DDBE7FA2}|FileIODemo\\FileIODemo.csproj|solutionrelative:fileiodemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A031C4-CE26-4C8C-B967-78E9DDBE7FA2}|FileIODemo\\FileIODemo.csproj|e:\\dotnet\\fileiodemo\\fileiodemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A031C4-CE26-4C8C-B967-78E9DDBE7FA2}|FileIODemo\\FileIODemo.csproj|solutionrelative:fileiodemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\FileIODemo\\FileIODemo\\Employee.cs",
+              "RelativeDocumentMoniker": "FileIODemo\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\FileIODemo\\FileIODemo\\Employee.cs",
+              "RelativeToolTip": "FileIODemo\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:02:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DotNet\\FileIODemo\\FileIODemo\\Form1.cs",
+              "RelativeDocumentMoniker": "FileIODemo\\Form1.cs",
+              "ToolTip": "E:\\DotNet\\FileIODemo\\FileIODemo\\Form1.cs",
+              "RelativeToolTip": "FileIODemo\\Form1.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAEwJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:48:15.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DotNet\\FileIODemo\\FileIODemo\\Form1.cs",
+              "RelativeDocumentMoniker": "FileIODemo\\Form1.cs",
+              "ToolTip": "E:\\DotNet\\FileIODemo\\FileIODemo\\Form1.cs [Design]",
+              "RelativeToolTip": "FileIODemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:55:11.996Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
